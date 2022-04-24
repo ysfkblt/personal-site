@@ -42,14 +42,14 @@ function App() {
 					</div>
 				</div>
 				<div class='inline-grid row-start-3 row-end-4 col-start-1 col-end-2'>
-					<div className='flex place-self-center text-[20vh] sm:text-[25vh] '>
+					<div className='flex items-end justify-center sm:place-self-center text-[15vh] sm:text-[20vh] '>
 						<p>↑</p>
 					</div>
 				</div>
 				<div class='inline-grid row-start-1 row-end-4 col-start-2 col-end-3 border-l border-black  '></div>
 				<div class='inline-grid row-start-1 row-end-4  col-start-3 col-end-4 border-l border-black '>
 					<img
-						className='flex self-start mx-2 md:mx-6 xl:mx-12 mt-16'
+						className='flex self-start mx-2 md:mx-6 xl:mx-12 mt-10'
 						src={under}
 					/>
 					<img
