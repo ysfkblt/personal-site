@@ -9,7 +9,7 @@ function App() {
 					<br />
 					Front-end Developer <br /> & UI Designer.
 				</p>
-				<div className='inline-flex mb-[5vh]   justify-between mx-[10vw] xl:mx-0 '>
+				<div className='inline-flex mb-[10vh] xl:mb-[5vh] justify-between mx-[10vw] xl:mx-0 '>
 					<div className='inline-flex self-end'>
 						<p className='text-[.5rem] xl:text-xs text-gray-400 tracking-widest'>
 							MAIL ME
