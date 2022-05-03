@@ -4,7 +4,7 @@ function App() {
 	return (
 		<div className='grid h-screen place-items-center bg-[#090909] select-none text-neutral-500'>
 			<div className='inline-grid h-screen xl:items-end'>
-				<p className='leading-none text-[18vw] xl:text-[8vw] ml-[10vw] xl:ml-0 mt-[14vh] xl:mt-0 '>
+				<p className='leading-none text-[18vw] xl:text-[8vw] ml-[10vw] xl:ml-0 mt-[20vh] xl:mt-0 '>
 					Hey! I’m <span className='text-amber-300'>Yusuf</span>
 					<br />
 					Front-end Developer <br /> & UI Designer.
