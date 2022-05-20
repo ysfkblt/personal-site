@@ -22,9 +22,9 @@ function App() {
 					Front-end Developer <br /> & UI Designer.
 				</div>
 				{/* // MOBILE // */}
-				<div className='flex items-center xl:hidden  mb-6 md:mt-12 ml-[11vw]  space-x-2 md:space-x-4  '>
+				<div className='flex items-center xl:hidden  mb-0 xl:mb-6 md:mt-12 ml-[11vw]  space-x-2 md:space-x-4   '>
 					<div className='inline-flex flex-col leading-snug space-y-1'>
-						<p className='text-[1vw] md:text-[2vw]    text-neutral-500 tracking-widest'>
+						<p className='text-[3vw] md:text-[2vw]    text-neutral-500 tracking-widest mb-2'>
 							PORTFOLIO
 							<div className='-mt-[1vw] xl:mt-1 xl:-ml-[2px] '>
 								<a
@@ -36,7 +36,7 @@ function App() {
 								</a>
 							</div>
 						</p>
-						<p className='text-[1vw] md:text-[2vw] text-neutral-500 tracking-widest'>
+						<p className='text-[3vw] md:text-[2vw] text-neutral-500 tracking-widest'>
 							MAIL ME
 							<div className='-mt-[1vw] xl:mt-1'>
 								<a
@@ -81,7 +81,7 @@ function App() {
 				<ChevronDownIcon className='hidden xl:block absolute  text-blue-600 dark:text-amber-200 bottom-4 left-1/2 arrowanimation h-[2vh] xl:h-[1.5vw] opacity-70' />
 			</div>
 			{/* // CASE // */}
-			<div className='flex flex-col items-start bg-neutral-300 dark:bg-[#090909] dark:text-neutral-500  text-zinc-800 select-none  transition-all leading-none pl-[11vw] pt-4 pb-6 xl:pt-24 xl:pb-8 xl:pl-[12vw] text-[11vw] xl:text-[5vw] space-y-4  '>
+			<div className='flex flex-col items-start bg-neutral-300 dark:bg-[#090909] dark:text-neutral-500  text-zinc-800 select-none  transition-all leading-none pl-[11vw] pt-[1vh] md:pt-[8vh] pb-6 xl:pt-24 xl:pb-8 xl:pl-[12vw] text-[11vw] xl:text-[5vw] space-y-4  '>
 				<p className='font-bold pb-2 xl:pb-4 '>Projects</p>
 				<p>
 					Netflix
