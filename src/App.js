@@ -13,7 +13,7 @@ function App() {
 	return (
 		<React.Fragment>
 			<div className='grid h-screen md:h-max xl:h-screen content-evenly justify-center bg-neutral-300 dark:bg-[#090909] dark:text-neutral-500  text-zinc-800 select-none  transition-all -mb-2'>
-				<div className='leading-none text-[18vw] xl:text-[8vw] ml-[10vw] xl:ml-0 mt-[14vh] xl:mt-[18vh] '>
+				<div className='leading-none text-[18vw] xl:text-[8vw] ml-[10vw] xl:ml-0 mt-[10vh] xl:mt-[18vh] '>
 					Hey! I’m{' '}
 					<span className='text-blue-600 dark:text-amber-300'>
 						Yusuf
@@ -81,7 +81,7 @@ function App() {
 				<ChevronDownIcon className='hidden xl:block absolute  text-blue-600 dark:text-amber-200 bottom-4 left-1/2 arrowanimation h-[2vh] xl:h-[1.5vw] opacity-70' />
 			</div>
 			{/* // CASE // */}
-			<div className='flex flex-col items-start bg-neutral-300 dark:bg-[#090909] dark:text-neutral-500  text-zinc-800 select-none  transition-all leading-none pl-[11vw] pt-[1vh] md:pt-[8vh] pb-6 xl:pt-24 xl:pb-8 xl:pl-[12vw] text-[11vw] xl:text-[5vw] space-y-4  '>
+			<div className='flex flex-col items-start bg-neutral-300 dark:bg-[#090909] dark:text-neutral-500  text-zinc-800 select-none  transition-all leading-none pl-[11vw] pt-[2vh] md:pt-[8vh] pb-6 xl:pt-24 xl:pb-8 xl:pl-[12vw] text-[11vw] xl:text-[5vw] space-y-4  '>
 				<p className='font-bold pb-2 xl:pb-4 '>Projects</p>
 				<p>
 					Netflix
