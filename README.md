@@ -6,9 +6,9 @@
 
 # Topics
 
-### - [Create React App](https://github.com/facebook/create-react-app).
+### - React
 
-### - [Tailwind CSS](https://tailwindcss.com/).
+### - Tailwind CSS
 
 <br>
 
